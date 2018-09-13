@@ -585,3 +585,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 img {
 	height: 251px;
 }
+
+.technologies p {
+	font-family: Acme, Arial;
+}
