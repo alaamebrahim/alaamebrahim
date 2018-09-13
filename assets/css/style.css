@@ -12,8 +12,9 @@ Assigned to: ThemeForest
 2. Normal Css/ a 
 -------------------------------------------------------------------*/
 /*--------- Body Strat -------*/
+
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Lobster', sans-serif;
 	font-size: 15px;
 	line-height: 1.5;
 	color: #b7b7b7;
@@ -35,7 +36,7 @@ a:focus {
 	outline: none;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Lobster', sans-serif;
 	font-weight: 400;
 	line-height: 1.1;
 	color: #fffefe;
@@ -570,4 +571,10 @@ input:focus, textarea:focus, select:focus, button:focus {
 	padding: 2px;
 	color: #0e76a8;
 	float: none;
+}
+.my-name {
+	text-transform: uppercase;
+}
+.my-job {
+	color: #000;
 }
