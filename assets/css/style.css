@@ -576,5 +576,12 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-transform: uppercase;
 }
 .my-job {
-	color: #000;
+	font-family: Acme, Arial;
+	background: #1c1c1c;
+	/* padding: 3px; */
+	display: inline-block;
+}
+
+img {
+	height: 251px;
 }
