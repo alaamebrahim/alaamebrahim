@@ -62,4 +62,18 @@ jQuery(document).ready(function () {
         ]);
     });
 
+    //new-muslim-data-plugin
+    $("#new-muslim-data-plugin").click(function () {
+        let s_url = window.location.protocol + '//' + window.location.hostname;
+        $.fancybox.open([
+            {
+                'src': s_url + '/assets/images/new-muslim-data-plugin/new-muslim-data.png',
+                'padding': 10,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'type': 'image',
+                'changeFade': 0
+            }
+        ]);
+    });
 });
