@@ -73,6 +73,14 @@ jQuery(document).ready(function () {
                 'transitionOut': 'none',
                 'type': 'image',
                 'changeFade': 0
+            },
+            {
+                'src': s_url + '/assets/images/new-muslim-data-plugin/new-muslim-data-2.png',
+                'padding': 10,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'type': 'image',
+                'changeFade': 0
             }
         ]);
     });
