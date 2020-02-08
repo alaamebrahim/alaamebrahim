@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  font-family: 'Lobster', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #b7b7b7;
+  background-color:#ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+
+@-webkit-keyframes rotate {
+  100% {
+    -webkit-transform: rotatey(36	0deg);
+  }
+}
+@-moz-keyframes rotate {
+  100% {
+    -moz-transform: rotatey(360deg);
+  }
+}
+@keyframes rotate {
+  100% {
+    transform: rotatey(360deg);
+  }
+}
+
+/*---------- Preloader Css Start -------*/
+#preloader {
+  background-color: #010101;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 2147483647;
+  width: 100%;
+  height: 100%;
+}
+
+/* Loading bar */
+.lds-dual-ring {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 46px;
+  height: 46px;
+  margin: 1px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  border-color: #fff transparent #fff transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.header-bg{
+  background-image:url(../images/portfolio_bg.jpg);
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position: center center;
+
+  img{
+    display:inline-block;
+    -webkit-animation: rotate 2s linear infinite;
+    -moz-animation: rotate 2s linear infinite;
+    -o-animation: rotate 2s linear infinite;
+    -ms-animation: rotate 2s linear infinite;
+    animation: rotate 2s linear infinite;
+  }
+}
