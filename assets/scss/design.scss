@@ -1,11 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Acme');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
-
 body {
-  font-family: 'Lobster', sans-serif;
+  font-family: 'Acme', sans-serif;
   font-size: 15px;
   line-height: 1.5;
   color: #b7b7b7;
@@ -13,9 +13,13 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.alaa {
+  font-family: "Acme", sans-serif;
+}
+
 @-webkit-keyframes rotate {
   100% {
-    -webkit-transform: rotatey(36	0deg);
+    -webkit-transform: rotatey(360deg);
   }
 }
 @-moz-keyframes rotate {

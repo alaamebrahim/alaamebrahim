@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5f059ef8-c6b0-472b-8015-c1f69e71245f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/scripts.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/scripts.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/design.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/design.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/mix-manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +41,13 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/new-muslim-data-plugin" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\laragon\www\alaamebrahim" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/shehada" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/new-muslim-data-plugin" />
     </key>
   </component>
   <component name="SvnConfiguration">
