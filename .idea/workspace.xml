@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f059ef8-c6b0-472b-8015-c1f69e71245f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/lazysizes.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/scripts.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/scripts.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/eskanonline.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/eskanonline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/souqzefaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/souqzefaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/testimonyoffaith.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/testimonyoffaith.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <workItem from="1577469315378" duration="103000" />
       <workItem from="1581154242278" duration="6760000" />
       <workItem from="1581274743668" duration="75000" />
-      <workItem from="1581407645506" duration="5396000" />
+      <workItem from="1581407645506" duration="6454000" />
     </task>
     <servers />
   </component>
