@@ -10,7 +10,8 @@ mix
     .options({
         processCssUrls: false,
         postCss: [tailwindcss('./tailwind.config.js')],
-    }).purgeCss({
+    })
+    .purgeCss({
     content: ['index.html'],
     whitelistPatterns: [/social/, /ic/, /fa/],
     whitelistPatternsChildren: [/social/, /ic/, /fa/]
